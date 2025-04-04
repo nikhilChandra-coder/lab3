@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Thu Mar 27 09:58:07 2025
+# Process ID: 1952
+# Current directory: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6848 C:\Users\Rutgers\OneDrive - Rutgers University\Desktop\Embedded Systems\Lab3\Lab3.sim\sim_1\behav\xsim\uart_tb_behav.wdb
+# Log file: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Rutgers\OneDrive - Rutgers University\Desktop\Embedded Systems\Lab3\Lab3.sim\sim_1\behav\xsim\uart_tb_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2021.1/data/ip'.
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 27 09:58:32 2025...

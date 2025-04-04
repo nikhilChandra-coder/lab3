@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ERROR: Index 5 out of bound 0 to 4
+Time: 405008500 ns  Iteration: 1  Process: /uart_top_tb/dut/u4/line__30
+  File: /home/user/Downloads/Lab3/Lab3.srcs/sources_1/new/sender.vhd
+
+HDL Line: /home/user/Downloads/Lab3/Lab3.srcs/sources_1/new/sender.vhd:45

@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab3.srcs/sources_1/new/clock_div.vhd" \
+"../../../../Lab3.srcs/sources_1/new/debounce.vhd" \
+"../../../../Lab3.srcs/sources_1/new/sender.vhd" \
+"../../../../Lab3.srcs/sources_1/imports/Downloads/uart.vhd" \
+"../../../../Lab3.srcs/sources_1/imports/Downloads/uart_rx.vhd" \
+"../../../../Lab3.srcs/sources_1/new/uart_top.vhd" \
+"../../../../Lab3.srcs/sources_1/new/uart_tx.vhd" \
+"../../../../Lab3.srcs/sim_1/new/uart_top_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Thu Mar 27 09:58:07 2025
+# Process ID: 1952
+# Current directory: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6848 C:\Users\Rutgers\OneDrive - Rutgers University\Desktop\Embedded Systems\Lab3\Lab3.sim\sim_1\behav\xsim\uart_tb_behav.wdb
+# Log file: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Rutgers/OneDrive - Rutgers University/Desktop/Embedded Systems/Lab3/Lab3.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Rutgers\OneDrive - Rutgers University\Desktop\Embedded Systems\Lab3\Lab3.sim\sim_1\behav\xsim\uart_tb_behav.wdb}
+close_sim

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  6548391630583247567  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto c34334880bf142a481150ac250b6b2b3 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot uart_top_tb_behav xil_defaultlib.uart_top_tb" , 
+    buildDate : "Jun 10 2021" , 
+    buildTime : "19:45:28" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/uart_top_tb_behav/xsimk\"   \"xsim.dir/uart_top_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/uart_top_tb_behav/obj/xsim_1.lnx64.o\" -L\"/home/software/Xilinx/Vivado/2021.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
